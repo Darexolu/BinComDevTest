@@ -55,7 +55,7 @@ for (int i = 0; i < arr2.Length; i++)
 
 //Task 5
 Console.WriteLine("Task 5");
-void Greet(string name)
+static void Greet(string name)
 {
 	Console.WriteLine("Hello," + name + "!");
 }
